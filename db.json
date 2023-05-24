@@ -1,0 +1,32 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Lion",
+      "description": "The lion is a large carnivorous mammal of the Felidae family, commonly found in grasslands and savannas. It is known for its majestic mane and powerful roar.",
+      "donation": "$50",
+      "image_url": "https://easydrawingguides.com/wp-content/uploads/2017/04/how-to-draw-a-lion-featured-image-1200.png"
+    },
+    {
+      "id": 2,
+      "name": "Elephant",
+      "description": "The elephant is a herbivorous mammal of the Elephantidae family, typically found in forests and grasslands. It is characterized by its long trunk, large ears, and tusks.",
+      "donation": "$100",
+      "image_url": "https://easydrawingguides.com/wp-content/uploads/2016/10/how-to-draw-an-elephant-featured-image-1200.png"
+    },
+    {
+      "id": 3,
+      "name": "Tiger",
+      "description": "The tiger is a carnivorous mammal of the Felidae family, known for its distinctive orange coat with black stripes. It inhabits forests and grasslands and is an apex predator.",
+      "donation": "$75",
+      "image_url": "https://img.freepik.com/premium-vector/cartoon-tiger-isolated_29190-6124.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Giraffe",
+      "description": "The giraffe is a herbivorous mammal of the Giraffidae family, recognized by its long neck and unique coat pattern. It mainly resides in savannas and feeds on leaves from tall trees.",
+      "donation": "$60",
+      "image_url": "https://img.freepik.com/premium-vector/cartoon-giraffe-isolated-white-background_723224-270.jpg?w=2000"
+    }
+  ]
+}
