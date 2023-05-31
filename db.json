@@ -27,6 +27,13 @@
       "description": "The giraffe is a herbivorous mammal of the Giraffidae family, recognized by its long neck and unique coat pattern. It mainly resides in savannas and feeds on leaves from tall trees.",
       "donation": "$60",
       "image_url": "https://img.freepik.com/premium-vector/cartoon-giraffe-isolated-white-background_723224-270.jpg?w=2000"
+    },
+    {
+      "id": 6,
+      "name": "dog",
+      "description": "The dog is a domesticated carnivorous mammal of the Canidae family, known for its loyalty and companionship with humans. It comes in various breeds and sizes, each with its unique characteristics and traits. Dogs are highly adaptable and are often kept as pets or used for various purposes like herding, hunting, or assistance.",
+      "donation": "$50",
+      "image_url": "https://img.freepik.com/premium-vector/cartoon-dog-isolated-white-background_723224-268.jpg?w=2000"
     }
   ]
 }
