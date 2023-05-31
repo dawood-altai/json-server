@@ -4,3 +4,7 @@
 
 - npm install -g json-server
 - json-server --watch db.json
+
+## Postman
+[Postman](https://web.postman.co/)
+- json-server --watch db.json  
